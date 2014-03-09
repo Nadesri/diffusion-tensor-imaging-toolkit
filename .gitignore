@@ -1,0 +1,5 @@
+# Recovery files
+*.m~
+
+# Data files
+*.mat
